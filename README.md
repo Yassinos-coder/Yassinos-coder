@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oswald&pause=3000&color=1252F7&center=true&width=500&height=100&lines=Hello+I'm+Yassine%2C;You+can+call+me+DGenius%2C;I'm+a+soon+to+be+a+web+full-stack +developer.)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=200&size=23&pause=1000&color=00F726&width=435&lines=Welcome+To+My+GitHub+Am+Yassine;You+can+call+me+DGenius)](https://git.io/typing-svg)
 <img align="left" alt="GIF" height="80px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif"/> 
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />
