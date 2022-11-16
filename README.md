@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=200&size=23&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Am+Yassine;You+can+call+me+DGenius)](https://git.io/typing-svg)
+
+
 <img align="left" alt="GIF" height="80px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif"/> 
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />
@@ -21,7 +23,7 @@
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5kjfvwyr7jt4obqge5x1gstpm&cover_image=true&theme=default&bar_color=af39b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5kjfvwyr7jt4obqge5x1gstpm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
