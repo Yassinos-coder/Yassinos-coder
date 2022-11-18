@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />
 
-## I'm a Software Enginer Student
+## I'm a Web Developer Student
 
 - 👨‍💻 I am experienced in Javascript / ReactJS / NodeJs / FiveM [Still leaning more] , currently practising/learning more ReactJS/NodeJs w/MongoDB.
 - ### About me :
