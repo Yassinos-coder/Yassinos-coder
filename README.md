@@ -43,4 +43,3 @@ Status Right Now : Motivated
 
 
 
-<img src="https://i.ibb.co/rZnQsnb/github-header-image-1.png"/> 
