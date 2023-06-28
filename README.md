@@ -13,7 +13,7 @@
 - 📫 What is the best way to contact me? [Discord](https://discord.io/Yassinos)
 - 😄 I don't know much about myself.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yassine_castro)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YassineCastro1)
 [![Twitch Badge](https://img.shields.io/twitch/status/yassinos08?style=for-the-badge)](https://www.twitch.tv/yassinos08)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wtgJdAuFrq)
 
