@@ -1,45 +1,48 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=200&size=23&pause=1000&color=00F726&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Am+Yassine;You+can+call+me+Yassine)](https://git.io/typing-svg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yassine Castro
+======================================================================================================================================
+
+MERN Stack Developer | React Native Developer | Gamer | Streamer
+----------------------------------------------------------------
+
+At 20, I find myself at an exciting crossroads of technology and creativity. My journey began when I was just 14, a curious kid fascinated by the magic of code. Today, I proudly navigate the realms of tech as a MERN Stack Developer and a React Native Developer. My days are a blend of intricate coding and innovative solutions, each project a new adventure in the vast digital landscape. Beyond the screens and keyboards, my passions lie in the exhilarating world of cars, bikes, and gaming. There's a certain thrill in the roar of an engine or the immersive universe of a video game that resonates with my love for technology and speed. As a gamer and a streamer, I find joy in sharing these adventures with others, building a community where pixels and reality merge. In this rapidly evolving digital era, my life is a testament to the power of passion and perseverance. From a young teen tinkering with codes to a developer shaping the future, every line of code I write is a step towards a future where technology enhances every aspect of our lives. I am Yassine Castro, a coder, a gamer, a dreamer, and this is my story.
+
+* 🌍  I'm based in Casablanca, Morocco
+* 🖥️  See my portfolio at [My Webiste \[Under Construction\]](http://yassinoscoder.codes/)
+* ✉️  You can contact me at [castroyassine0@gmail.com](mailto:castroyassine0@gmail.com)
+* 🧠  I'm learning React-Native
+* 🤝  I'm open to collaborating on any type of projects web or mobile
+* ⚡  if your intrested in watching me game or code twitch.tv/Yassinos08
+
+<a href="https://www.github.com/yassinos-coder" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yassinos-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/YassineCastro1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/YassineCastro1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/yassinos08" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/yassinos08?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
+### Skills
 
 
-<img align="left" alt="GIF" height="80px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif"/> 
-
-<img align="right" alt="GIF" height="160px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Animation.gif" />
-
-## I'm a Certified Full-Stack JavaScript Developer [Certification](https://learn.gomycode.co/credentials/6b933d11-9dba-4424-98f4-1c0960bd2d7d/GYAOARMHSYYSCALOCEDEEEONI-CN-TC-O/00006909)
-
-- 👨‍💻 I am experienced in Javascript / ReactJS / NodeJs / FiveM [Still leaning more] , currently practising/learning more ReactJS/NodeJs w/MongoDB.
-- ### About me :
-- 🌐 Website : Unavailable For The Moment!
-- 📫 What is the best way to contact me? [Discord](https://discord.io/Yassinos)
-- 😄 I don't know much about myself.
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%23229FEC.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YassineCastro1)
-[![Twitch Badge](https://img.shields.io/twitch/status/yassinos08?style=for-the-badge)](https://www.twitch.tv/yassinos08)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wtgJdAuFrq)
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5kjfvwyr7jt4obqge5x1gstpm&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-<!--START_SECTION:waka-->
-```text
-Status Right Now : Motivated
-```
-
----
-
-<!--END_SECTION:waka-->
-### Github Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yassinos-coder&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-![Simpleboy353's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassinos-coder&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yassinos-coder)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://discord.com/users/yassinos_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/yassinos-coder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/yassinos.js" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yassine-castro-6a6ba7237" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/YassineCastro1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/yassinos08" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yassinos-coder"><img src="https://github-readme-stats.vercel.app/api?username=yassinos-coder&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yassinos-coder's GitHub stats" /></a>
+
+<a href="http://www.github.com/yassinos-coder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinos-coder&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/yassinos-coder"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yassinos-coder&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/yassinos-coder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinos-coder&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/yassinos-coder/outlawalert" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassinos-coder&repo=outlawalert&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yassinos-coder/ConvoApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yassinos-coder&repo=ConvoApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
