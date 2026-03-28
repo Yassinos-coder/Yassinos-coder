@@ -69,7 +69,25 @@ Outside of work, I'm into cars, bikes, gaming, and streaming. If that sounds lik
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>&nbsp;
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>&nbsp;
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/railway/0891b2" width="36" height="36" alt="Railway" /></a>&nbsp;
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+### AI & Automation
+
+<p align="left">
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/0891b2" width="36" height="36" alt="LangChain" /></a>&nbsp;
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/ffffff" width="36" height="36" alt="OpenAI" /></a>&nbsp;
+<a href="https://www.pabbly.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pabbly-FF6B35?style=flat-square&logoColor=white" height="36" alt="Pabbly" /></a>&nbsp;
+<a href="https://slack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/slack/0891b2" width="36" height="36" alt="Slack" /></a>
+</p>
+
+### CMS & E-Learning
+
+<p align="left">
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>&nbsp;
+<a href="https://moodle.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/moodle/F98012" width="36" height="36" alt="Moodle" /></a>&nbsp;
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 </p>
 
 ---
@@ -101,7 +119,7 @@ Outside of work, I'm into cars, bikes, gaming, and streaming. If that sounds lik
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yassinos-coder&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yassinos-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
