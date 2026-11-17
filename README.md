@@ -63,4 +63,6 @@ More on [yassinecastro.com](https://yassinecastro.com).
 
 Have an API, a SaaS idea or an integration to build? Reach me by [email](mailto:yassinecastro@proton.me), on [Discord](https://discord.com/users/yassinos_) (`yassinos_`) or on [LinkedIn](https://linkedin.com/in/yassine-castro-6a6ba7237).
 
-If my open source work helps you, you can [buy me a coffee](https://buymeacoffee.com/yassinos.coder) or send a tip through [PayPal](https://paypal.me/the1290srider).
+If my open source work helps you, you can support it here:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yassinos.coder) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/the1290srider)
